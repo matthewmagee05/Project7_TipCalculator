@@ -1,0 +1,3 @@
+CHANGED,/Users/matthewmagee/Downloads/Project7_TipCalculator/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/murach/tipcalculator/TipCalculatorActivity$override.class
+CHANGED,/Users/matthewmagee/Downloads/Project7_TipCalculator/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/murach/tipcalculator/MyDBHandler$override.class
+CHANGED,/Users/matthewmagee/Downloads/Project7_TipCalculator/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
